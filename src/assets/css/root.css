@@ -966,6 +966,12 @@
     color: #b4b2c7;
     display: block;
   }
+  #cs-footer-270 .cs-credit {
+    font-size: 1rem;
+    line-height: 1.5em;
+    color: #b4b2c7;
+    display: block;
+  }
   #cs-footer-270 .cs-social {
     display: inline-flex;
     justify-content: flex-start;
